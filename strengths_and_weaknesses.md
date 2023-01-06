@@ -6,3 +6,4 @@ very fast
 # Weaknesses
 
 a bit complicated (yes :( )
+struggles with binary files
